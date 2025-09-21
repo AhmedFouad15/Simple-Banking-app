@@ -84,8 +84,3 @@ atm-machine-c/
 
 
 👨‍💻 Created with ❤️ in C
-
-```
-
-Do you want me to also add **badges and shields** (like "Made with C", "License", etc.) to make it look more professional for GitHub?
-```
