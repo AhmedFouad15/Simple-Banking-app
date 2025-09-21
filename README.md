@@ -27,6 +27,7 @@ The program provides options for deposits, withdrawals, loans, and staking with 
 
 ## 📷 Program Demo (Example Output)
 ```
+````
 
 \*\*\* Welcome to the ATM Machine \*\*\*
 
@@ -42,8 +43,8 @@ Please choose an option
 What is your option?:
 
 ````
-
 ---
+````
 
 ## 🛠️ Installation & Run
 1. Clone this repository:
@@ -81,14 +82,6 @@ atm-machine-c/
 
 ---
 
-## 🚀 Future Improvements
-
-* Add **PIN authentication**
-* Save balance to a file (persistent storage)
-* Improve loan and staking calculations
-
-
----
 
 👨‍💻 Created with ❤️ in C
 
